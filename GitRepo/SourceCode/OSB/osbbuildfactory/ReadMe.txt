@@ -1,0 +1,1 @@
+Update the <%ChangeMe%> content with the project specific values in all the files
